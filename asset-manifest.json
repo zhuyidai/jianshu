@@ -1,23 +1,23 @@
 {
   "files": {
-    "main.js": "/jianshu/static/js/main.5a41005a.chunk.js",
-    "main.js.map": "/jianshu/static/js/main.5a41005a.chunk.js.map",
-    "runtime-main.js": "/jianshu/static/js/runtime-main.4ffeca82.js",
-    "runtime-main.js.map": "/jianshu/static/js/runtime-main.4ffeca82.js.map",
-    "static/js/2.48f1a0bd.chunk.js": "/jianshu/static/js/2.48f1a0bd.chunk.js",
-    "static/js/2.48f1a0bd.chunk.js.map": "/jianshu/static/js/2.48f1a0bd.chunk.js.map",
-    "static/js/3.a8a487fa.chunk.js": "/jianshu/static/js/3.a8a487fa.chunk.js",
-    "static/js/3.a8a487fa.chunk.js.map": "/jianshu/static/js/3.a8a487fa.chunk.js.map",
-    "index.html": "/jianshu/index.html",
-    "precache-manifest.d11a9d4b65ea353c0826c6405a159836.js": "/jianshu/precache-manifest.d11a9d4b65ea353c0826c6405a159836.js",
-    "service-worker.js": "/jianshu/service-worker.js",
-    "static/js/2.48f1a0bd.chunk.js.LICENSE": "/jianshu/static/js/2.48f1a0bd.chunk.js.LICENSE",
-    "static/media/kobe1.jpg": "/jianshu/static/media/kobe1.a71d303b.jpg",
-    "static/media/nba1.png": "/jianshu/static/media/nba1.4c68c814.png"
+    "main.js": "./static/js/main.5a41005a.chunk.js",
+    "main.js.map": "./static/js/main.5a41005a.chunk.js.map",
+    "runtime-main.js": "./static/js/runtime-main.b983b469.js",
+    "runtime-main.js.map": "./static/js/runtime-main.b983b469.js.map",
+    "static/js/2.5d7180ca.chunk.js": "./static/js/2.5d7180ca.chunk.js",
+    "static/js/2.5d7180ca.chunk.js.map": "./static/js/2.5d7180ca.chunk.js.map",
+    "static/js/3.a8a487fa.chunk.js": "./static/js/3.a8a487fa.chunk.js",
+    "static/js/3.a8a487fa.chunk.js.map": "./static/js/3.a8a487fa.chunk.js.map",
+    "index.html": "./index.html",
+    "precache-manifest.9b06457b7915de9521d16056fcdc1686.js": "./precache-manifest.9b06457b7915de9521d16056fcdc1686.js",
+    "service-worker.js": "./service-worker.js",
+    "static/js/2.5d7180ca.chunk.js.LICENSE": "./static/js/2.5d7180ca.chunk.js.LICENSE",
+    "static/media/kobe1.jpg": "./static/media/kobe1.a71d303b.jpg",
+    "static/media/nba1.png": "./static/media/nba1.4c68c814.png"
   },
   "entrypoints": [
-    "static/js/runtime-main.4ffeca82.js",
-    "static/js/2.48f1a0bd.chunk.js",
+    "static/js/runtime-main.b983b469.js",
+    "static/js/2.5d7180ca.chunk.js",
     "static/js/main.5a41005a.chunk.js"
   ]
 }
